@@ -100,6 +100,10 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
+## 效果展示
+
+![](doc/111.png)
+
 ## 后端服务
 
 [后端服务](https://github.com/LiushuiXiaoxia/easy-captcha)
